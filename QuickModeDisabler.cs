@@ -35,8 +35,8 @@
             }
 
             Console.WriteLine("QuickEdit mode is disabled. The application won't pause if you click in the console window.");
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
+            //Console.WriteLine("Press any key to exit...");
+            //Console.ReadKey();
         }
     }
 }
